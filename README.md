@@ -1,23 +1,38 @@
-# Amazon-Clone
+# :rocket: Amazon-Clone
 This project is a static replica of Amazon, developed using pure HTML and CSS. It focuses on design, responsiveness, and UI/UX, mimicking Amazon’s front-end layout without dynamic functionality like authentication or a shopping cart.
-<hr>
-## Features
-* Responsive Design – Works across different screen sizes and devices.<br>
-* Navigation Bar – Includes a fully styled search bar, categories, and account dropdown.<br>
-* Product Showcase – Displays featured products and deals similar to Amazon.<br>
-* Footer & Links – Structured footer with essential links, just like a real e-commerce site.<br>
+<br>
+
+
+## 🔹Initial Interface
+![image](https://github.com/user-attachments/assets/81039385-1ffb-43b7-8451-1268e664d72e)
+
+
+
+## ✨Features
+* Responsive Design – Works across different screen sizes and devices.
+* Navigation Bar – Includes a fully styled search bar, categories, and account dropdown.
+* Product Showcase – Displays featured products and deals similar to Amazon.
+* Footer & Links – Structured footer with essential links, just like a real e-commerce site.
 * CSS Animations – Smooth hover effects and transitions for an enhanced user experience.
-<hr>
-## Tech Stack
-* HTML – Structure and layout<br>
-* CSS – Styling, responsiveness, and animations<br>
-<hr>
-## Installation
-1. Clone the repository:
+<br>
+
+## 🛠️ Tech Stack
+* HTML – Structure and layout
+* CSS – Styling, responsiveness, and animations
+<br>
+
+## 🚀 Getting Started
+1️⃣ Clone the repository: 
 git clone https://github.com/pankajraghav15/amazon-clone.git
-<br>
-2. Open the project folder:
+
+2️⃣ Open the project folder: 
 cd amazon-clone
+
+3️⃣ Run the project by opening index.html in your browser.
 <br>
-3. Run the project by opening index.html in your browser.
+
+
+## 🤝 Contributing
+We welcome contributions! If you'd like to improve styling, add animations, or enhance responsiveness, feel free to submit a pull request.
+
 
