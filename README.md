@@ -2,12 +2,6 @@
 This project is a static replica of Amazon, developed using pure HTML and CSS. It focuses on design, responsiveness, and UI/UX, mimicking Amazon’s front-end layout without dynamic functionality like authentication or a shopping cart.
 <br>
 
-
-## 🔹Initial Interface
-![image](https://github.com/user-attachments/assets/81039385-1ffb-43b7-8451-1268e664d72e)
-
-
-
 ## ✨Features
 * Responsive Design – Works across different screen sizes and devices.
 * Navigation Bar – Includes a fully styled search bar, categories, and account dropdown.
@@ -31,8 +25,13 @@ cd amazon-clone
 3️⃣ Run the project by opening index.html in your browser.
 <br>
 
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/c8fc3ce4-67b6-4c55-af03-b3fe9f3c76c0)
+
 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to improve styling, add animations, or enhance responsiveness, feel free to submit a pull request.
+
+
 
 
